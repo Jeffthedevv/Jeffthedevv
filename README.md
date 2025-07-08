@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Jeffery Diaz
 
-<!--
-**Jeffthedevv/Jeffthedevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Veteran. Full-stack developer. Builder of lean, scalable apps that don’t just look good — they **work well**.
 
-Here are some ideas to get you started:
+### 🔧 What I Build
+- Scalable APIs (Node.js, MongoDB, Koa)
+- Clean frontend apps (React, Tailwind, TypeScript)
+- SEO-optimized WordPress themes (Gutenberg, PHP)
+- Intelligent scrapers and data pipelines
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Featured Project
+🚀 [Gutenberg SEO Rebuild](https://github.com/Jeffthedevv/gutenberg-seo-rebuild)  
+> Rebuilt an Elementor site into a custom Gutenberg theme — 90+ Lighthouse scores, fully semantic HTML, SEO-first design
+
+### ⚙️ Tech Stack
+`JavaScript` `Node.js` `React` `MongoDB` `WordPress` `Tailwind` `Playwright` `Koa` `Git`
+
+### 🧠 What I’m Working On
+- YardWise: personalized environmental insights for homeowners
+- Building out a clean public API for environmental data
+- Staying sharp in system design, performance, and product architecture
+
+---
+
+📬 [Reach out on LinkedIn](https://www.linkedin.com/in/jefferydiaz-webdeveloper/) or shoot me a message.
