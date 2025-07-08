@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jeffery Diaz
 
-Veteran. Full-stack developer. Builder of lean, scalable apps that don’t just look good — they **work well**.
+'m a full-stack developer and Army veteran based in Austin, TX — focused on building lean, scalable, and resilient products that **work well**.
 
 ### 🔧 What I Build
 - Scalable APIs (Node.js, MongoDB, Koa)
