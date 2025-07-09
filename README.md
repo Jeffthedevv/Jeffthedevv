@@ -16,12 +16,15 @@ I'm a full-stack developer and Army veteran based in Austin, TX — focused on b
 `JavaScript` `Node.js` `React` `MongoDB` `WordPress` `Tailwind` `Playwright` `Koa` `Git`
 
 ### 🧠 What I’m Working On
+- Architecting a full-stack pipeline that crawls, indexes, and auto-updates large-scale geospatial data — delivering real-time, queryable map data via a lightweight API
 - YardWise: personalized environmental insights for homeowners
-- Building out a clean public API for environmental data
 - Staying sharp in system design, performance, and product architecture
-
 ---
+
+### 🤝 Collaborate?
+Got something interesting on the backend?
+Don’t hesitate to reach out — always open to building something meaningful.
 
 📬 [Reach out on LinkedIn](https://www.linkedin.com/in/jefferydiaz-webdeveloper/) or shoot me a message.
 
-## Inspiration? Clone this.
+### Inspiration? Clone this.
