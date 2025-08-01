@@ -11,8 +11,10 @@ I'm a full-stack developer and Army veteran based in Austin, TX — focused on b
 ### 📌 Featured Project
 🚀 [Gutenberg SEO Rebuild](https://github.com/Jeffthedevv/gutenberg-seo-rebuild)  
 > Rebuilt an Elementor site into a custom Gutenberg theme — 90+ Lighthouse scores, fully semantic HTML, SEO-first design
+
 🚀 [geo-data-pipeline](https://github.com/Jeffthedevv/geo-data-pipeline)  
 > A full-stack geospatial pipeline that crawls, indexes, and servers region-based environmental data via a lightweight Node.js API. Built with MongoDB, Koa, Playwright and Mapbox-ready output formatting.
+
 ### ⚙️ Tech Stack
 `JavaScript` `Node.js` `React` `MongoDB` `WordPress` `Tailwind` `Playwright` `Koa` `Git`
 
