@@ -1,33 +1,72 @@
 # 👋 Hi, I'm Jeffery Diaz
 
-I'm a full-stack developer and Army veteran based in Austin, TX — focused on building lean, scalable, and resilient products that **work well**.
+Senior Full-Stack Engineer, Army veteran, and founder of **[YardWise](https://getyardwise.com)** — a production SaaS platform delivering geospatial soil intelligence to homeowners nationwide.
 
-### 🔧 What I Build
-- Scalable APIs (Node.js, MongoDB, Koa)
-- Clean frontend apps (React, Tailwind, TypeScript)
-- SEO-optimized WordPress themes (Gutenberg, PHP)
-- Intelligent scrapers and data pipelines
+I specialize in building scalable, resilient systems that move from idea → architecture → production.
 
-### 📌 Featured Project
-🚀 [Gutenberg SEO Rebuild](https://github.com/Jeffthedevv/gutenberg-seo-rebuild)  
-> Rebuilt an Elementor site into a custom Gutenberg theme — 90+ Lighthouse scores, fully semantic HTML, SEO-first design
-
-🚀 [geo-data-pipeline](https://github.com/Jeffthedevv/geo-data-pipeline)  
-> A full-stack geospatial pipeline that crawls, indexes, and servers region-based environmental data via a lightweight Node.js API. Built with MongoDB, Koa, Playwright and Mapbox-ready output formatting.
-
-### ⚙️ Tech Stack
-`JavaScript` `Node.js` `React` `MongoDB` `WordPress` `Tailwind` `Playwright` `Koa` `Git`
-
-### 🧠 What I’m Working On
-- Architecting a full-stack pipeline that crawls, indexes, and auto-updates large-scale geospatial data — delivering real-time, queryable map data via a lightweight API
-- YardWise: personalized environmental insights for homeowners
-- Staying sharp in system design, performance, and product architecture
 ---
 
-### 🤝 Collaborate?
-Got something interesting on the backend?
-Don’t hesitate to reach out — always open to building something meaningful.
+## 🚀 Founder & Lead Engineer — YardWise
 
-📬 [Reach out on LinkedIn](https://www.linkedin.com/in/jefferydiaz-webdeveloper/) or shoot me a message.
+I architected and built **getyardwise.com** from the ground up, including:
 
-### Inspiration? Clone this.
+- Distributed microservices architecture (Node.js + Koa, Python FastAPI)
+- Geospatial resolution pipeline (ZIP → lat/lng → SSURGO polygon → MUKEY → normalized soil profile)
+- Integration of USDA SSURGO + ISRIC SoilGrids datasets
+- Redis caching and performance tuning for sub-60s report generation
+- React Native Web (Expo) mobile-first frontend
+- Stripe-based monetization (subscriptions + tokenized reports)
+- Deployment to Google Cloud Run with CI/CD pipelines
+
+YardWise is a live, production system serving users across the U.S.
+
+I am the primary engineer responsible for system design, backend architecture, frontend implementation, and cloud infrastructure.
+
+---
+
+## 🔧 What I Build
+
+- Scalable APIs (Node.js, MongoDB, Koa)
+- Cloud-native microservices
+- Geospatial data pipelines
+- High-performance React frontends
+- Resilient scraping and ingestion systems
+- Ecommerce & headless Shopify architectures
+
+---
+
+## 📌 Selected Projects
+
+🚀 [Gutenberg SEO Rebuild](https://github.com/Jeffthedevv/gutenberg-seo-rebuild)  
+Rebuilt an Elementor site into a custom Gutenberg theme — 90+ Lighthouse scores, semantic HTML, SEO-first design.
+
+🚀 [geo-data-pipeline](https://github.com/Jeffthedevv/geo-data-pipeline)  
+A full-stack geospatial ingestion and API pipeline built with MongoDB, Koa, Playwright, and Mapbox-ready formatting.
+
+---
+
+## ⚙️ Tech Stack
+
+`JavaScript` `TypeScript` `Node.js` `Koa` `React` `React Native Web`  
+`MongoDB` `Redis` `Python` `FastAPI`  
+`Google Cloud Run` `CI/CD` `Stripe`  
+`Playwright` `WordPress` `Tailwind`
+
+---
+
+## 🧠 Engineering Focus
+
+- Distributed systems
+- API design
+- Performance & reliability
+- Data modeling
+- System architecture
+- Production debugging
+
+---
+
+## 🤝 Let’s Build
+
+Interested in backend architecture, distributed systems, or scalable product design?
+
+📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/jefferydiaz-webdeveloper/)
