@@ -1,47 +1,47 @@
 # 👋 Hi, I'm Jeffery Diaz
 
-Senior Full-Stack Engineer, Army veteran, and founder of **[YardWise](https://getyardwise.com)** — a production SaaS platform delivering geospatial soil intelligence to homeowners nationwide.
+Senior Software Engineer, Army veteran, and founder of **[YardWise](https://getyardwise.com)** — a live, production SaaS platform delivering geospatial soil intelligence to homeowners nationwide.
 
-I specialize in building scalable, resilient systems that move from idea → architecture → production.
+I design and operate scalable, resilient systems that move from idea → architecture → production.
 
 ---
 
 ## 🚀 Founder & Lead Engineer — YardWise
 
-I architected and built **getyardwise.com** from the ground up, including:
+I architected and built **getyardwise.com** end-to-end, including:
 
-- Distributed microservices architecture (Node.js + Koa, Python FastAPI)
-- Geospatial resolution pipeline (ZIP → lat/lng → SSURGO polygon → MUKEY → normalized soil profile)
-- Integration of USDA SSURGO + ISRIC SoilGrids datasets
-- Redis caching and performance tuning for sub-60s report generation
-- React Native Web (Expo) mobile-first frontend
+- Distributed microservices architecture (Node.js/Koa, Python/FastAPI)
+- Geospatial resolution pipeline: ZIP → lat/lng → SSURGO polygon → MUKEY → normalized soil profile
+- Integration of USDA SSURGO + ISRIC SoilGrids datasets into a unified soil model
+- Redis caching and performance tuning to maintain sub-60s report generation under concurrent load
+- Mobile-first frontend using React Native Web (Expo)
 - Stripe-based monetization (subscriptions + tokenized reports)
-- Deployment to Google Cloud Run with CI/CD pipelines
+- Deployment to Google Cloud Run with containerized builds and CI/CD workflows
 
-YardWise is a live, production system serving users across the U.S.
+YardWise is a production system serving users across the United States.
 
-I am the primary engineer responsible for system design, backend architecture, frontend implementation, and cloud infrastructure.
+I am responsible for system design, backend architecture, frontend implementation, cloud infrastructure, and operational reliability.
 
 ---
 
-## 🔧 What I Build
+## 🔧 Core Capabilities
 
-- Scalable APIs (Node.js, MongoDB, Koa)
+- API design & distributed systems
 - Cloud-native microservices
-- Geospatial data pipelines
-- High-performance React frontends
-- Resilient scraping and ingestion systems
-- Ecommerce & headless Shopify architectures
+- Geospatial data modeling
+- Performance optimization & caching strategies
+- High-performance React applications
+- Resilient ingestion & scraping pipelines
 
 ---
 
 ## 📌 Selected Projects
 
 🚀 [Gutenberg SEO Rebuild](https://github.com/Jeffthedevv/gutenberg-seo-rebuild)  
-Rebuilt an Elementor site into a custom Gutenberg theme — 90+ Lighthouse scores, semantic HTML, SEO-first design.
+Rebuilt an Elementor site into a custom Gutenberg theme — 90+ Lighthouse scores, semantic HTML, SEO-first architecture.
 
 🚀 [geo-data-pipeline](https://github.com/Jeffthedevv/geo-data-pipeline)  
-A full-stack geospatial ingestion and API pipeline built with MongoDB, Koa, Playwright, and Mapbox-ready formatting.
+Full-stack geospatial ingestion and API pipeline built with MongoDB, Koa, Playwright, and Mapbox-ready formatting.
 
 ---
 
@@ -65,8 +65,8 @@ A full-stack geospatial ingestion and API pipeline built with MongoDB, Koa, Play
 
 ---
 
-## 🤝 Let’s Build
+## 🤝 Let’s Connect
 
-Interested in backend architecture, distributed systems, or scalable product design?
+Interested in backend architecture, distributed systems, or building resilient production systems?
 
 📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/jefferydiaz-webdeveloper/)
